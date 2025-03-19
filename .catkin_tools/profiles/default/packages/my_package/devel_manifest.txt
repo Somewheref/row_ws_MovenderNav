@@ -1,0 +1,5 @@
+my_package
+/root/ros_ws/devel/.private/my_package/cmake.lock /root/ros_ws/devel/./cmake.lock
+/root/ros_ws/devel/.private/my_package/lib/pkgconfig/my_package.pc /root/ros_ws/devel/lib/pkgconfig/my_package.pc
+/root/ros_ws/devel/.private/my_package/share/my_package/cmake/my_packageConfig-version.cmake /root/ros_ws/devel/share/my_package/cmake/my_packageConfig-version.cmake
+/root/ros_ws/devel/.private/my_package/share/my_package/cmake/my_packageConfig.cmake /root/ros_ws/devel/share/my_package/cmake/my_packageConfig.cmake

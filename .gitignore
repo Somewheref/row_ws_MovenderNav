@@ -1,0 +1,19 @@
+# ROS specific directories
+build/
+devel/
+install/
+logs/
+
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store

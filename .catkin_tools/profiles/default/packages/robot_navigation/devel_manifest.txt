@@ -1,0 +1,6 @@
+robot_navigation
+/root/ros_ws/devel/.private/robot_navigation/cmake.lock /root/ros_ws/devel/./cmake.lock
+/root/ros_ws/devel/.private/robot_navigation/lib/pkgconfig/robot_navigation.pc /root/ros_ws/devel/lib/pkgconfig/robot_navigation.pc
+/root/ros_ws/devel/.private/robot_navigation/lib/python3/dist-packages/robot_navigation/__init__.py /root/ros_ws/devel/lib/python3/dist-packages/robot_navigation/__init__.py
+/root/ros_ws/devel/.private/robot_navigation/share/robot_navigation/cmake/robot_navigationConfig-version.cmake /root/ros_ws/devel/share/robot_navigation/cmake/robot_navigationConfig-version.cmake
+/root/ros_ws/devel/.private/robot_navigation/share/robot_navigation/cmake/robot_navigationConfig.cmake /root/ros_ws/devel/share/robot_navigation/cmake/robot_navigationConfig.cmake
